@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap');
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: Noto Sans JP;
+  color: #222;
+}
+
+
+.header {
+  background-color: #404041;
+}
+
+.lang {
+  color: white;
+}
+
+.container {
+  background-color: rgb(209,210,212);
+}
+
+.nav {
+  text-align: center;
+  justify-content: space-between;
+}
+
+
+.nav:hover {
+  color: #128E75;
+}
+
+.pbutton {
+  text-align: center;
+}
+
+.ikonas img{
+  width: 100px;
+}
+
+.ikonas h4{
+  padding-top: 10%;
+
+}
+
+.sazinies {
+  background-color:#404041;
+}
+
+.btn {
+  width: 200px;
+  display:inline-block;
+  overflow: auto;
+  white-space: nowrap;
+  margin:0px auto;
+  float: right;
+  color: white;
+  background-color: #128E75;
+  border: #128E75;
+  border-radius: 20%;
+}
+
+.darzs {
+  display: inline-block;
+  margin: 0px auto;
+  float: right;
+}
+
+.current {
+    color: #128E75;
+}
+
+/*
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+*/
+
+
+
+
+
+
+
+
